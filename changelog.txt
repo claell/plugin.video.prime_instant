@@ -1,0 +1,27 @@
+1.0.0
+- Initial release
+1.0.1
+- Changed login (email and password are not stored anymore)
+1.0.2
+- Added debug output
+- Fixed folder encoding issue
+- Some small improvements
+1.0.2-r1
+- Added end soon section
+1.0.2-r2
+- Fixed encoding of the watchlist
+1.0.2-r7
+- Fix for new site version to play videos
+1.0.2-r8
+- Fix for video information
+1.0.2-r9
+- Fix watchlist for new site version
+1.0.2-r11
+- Merge with syscrashs version
+  * Watchlist korrigiert
+  * Filminfos korrigiert
+  * csrfToken korrigiert
+1.0.2-r12
+- Fix detail-Bug with umlauts
+1.0.2-r13
+- Remove whitespaces in episode description
